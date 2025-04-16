@@ -70,4 +70,4 @@ Aquí tienes un listado con librerías y técnicas clave:
 - `whisper`: Para transcripción de voz a texto.  
 - `langchain`: Para integrar múltiples modelos de IA en un flujo automatizado.  
 
-Todo esto puede combinarse para crear videos atractivos y virales. ¿Qué aspecto te gustaría explorar primero? 🚀🎥
+Todo esto puede combinarse para crear videos atractivos y virales. 🚀🎥
