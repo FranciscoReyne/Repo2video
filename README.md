@@ -34,3 +34,40 @@ Con Repo2video transforma tus ideas en videos🎬💡
 - Usar IA para generar resúmenes atractivos del código.  
 - Implementar avatares o narradores generados con inteligencia artificial para personalizar el contenido.  
 
+# Python tiene herramientas para lograr cada uno de esos aspectos.
+
+Aquí tienes un listado con librerías y técnicas clave:
+
+🔍 **Análisis del código fuente**  
+- `ast` y `tokenize`: Para analizar la estructura del código Python.  
+- `pydriller`: Extraer cambios en repositorios de GitHub.  
+
+📝 **Generación de guion automático**  
+- `transformers` (Hugging Face): Para generar texto con IA.  
+- `GPT APIs`: Usar modelos de lenguaje para resumir y explicar código.  
+
+🎨 **Visualizaciones llamativas**  
+- `matplotlib` y `seaborn`: Para gráficos claros y animados.  
+- `manim`: Librería avanzada para animaciones matemáticas.  
+- `graphviz` o `networkx`: Para diagramas de estructuras de código.  
+
+🔊 **Sonido envolvente y narración**  
+- `pyttsx3`: Para convertir texto en voz sin conexión.  
+- `OpenAI TTS` o `ElevenLabs`: Para voces más naturales.  
+- `pydub`: Para manipulación de audio y efectos.  
+
+🎬 **Generación de video**  
+- `moviepy`: Edición de video en Python.  
+- `opencv`: Procesamiento de imágenes y efectos visuales.  
+- `ffmpeg-python`: Para convertir y manipular formatos de video.  
+
+📈 **Formato optimizado para redes sociales**  
+- `PIL` y `opencv`: Para añadir subtítulos y elementos visuales.  
+- `shutil` y `os`: Para automatizar exportación y subida a redes.  
+
+🤖 **Interacción con IA**  
+- `stable-diffusion` o `DALL·E`: Para generación de imágenes.  
+- `whisper`: Para transcripción de voz a texto.  
+- `langchain`: Para integrar múltiples modelos de IA en un flujo automatizado.  
+
+Todo esto puede combinarse para crear videos atractivos y virales. ¿Qué aspecto te gustaría explorar primero? 🚀🎥
